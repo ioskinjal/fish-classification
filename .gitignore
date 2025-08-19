@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+
+# Virtual environment
+venv/
+.venv/
+
+# Model files (optional, if too large)
+models/*.keras
+models/*.h5
+
+# Streamlit cache
+.streamlit/
