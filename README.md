@@ -22,7 +22,7 @@ fish-classification/
 
 Clone the repository:
 
-git clone https://github.com/YOUR_USERNAME/fish-classification.git
+git clone [https://github.com/YOUR_USERNAME/fish-classification.git](https://github.com/ioskinjal/fish-classification.git)
 cd fish-classification
 
 Create and activate a virtual environment (Python 3.10 recommended):
@@ -66,3 +66,4 @@ Upload a fish image → get species prediction + confidence score.
 📜 License
 
 This project is licensed under the MIT License.
+
